@@ -1,2 +1,2 @@
 # natural-questions
-Question Answering Model
+Question Answering model weights
